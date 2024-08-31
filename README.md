@@ -1,6 +1,6 @@
-- Hi, I’m Olivia!!
-- I’m interested in IoT
-- I’m currently learning SQL and IoT
+- Hi, I’m Olivia!
+- I’m interested in IoT and solving questions with data 
+- I am currently learning about machine learning and snowflake
 - I’m looking to collaborate on projects and research
 
 <!---
